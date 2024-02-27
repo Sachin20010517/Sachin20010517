@@ -1,9 +1,10 @@
 
 
-<h1 align="center">Hi There!👋, I'm I'm R. Sachin Ayeshmantha</h1>
-<h3 align="centre">An undergraduate student who is passionate about machine learning, DevOps & web development</h3>
 
-<img align= "right" alt= "Coding" width=""400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi There!👋, I'm Sachin Ayeshmantha</h1>
+<h3 align="centre" margin-bottom = 50px>An undergraduate student who is passionate about machine learning, DevOps & web development</h3>
+
+<img align= "centre"  alt= "Coding"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin20010517&label=Profile%20views&color=0e75b6&style=flat" alt="sachin20010517" /> </p>
 
