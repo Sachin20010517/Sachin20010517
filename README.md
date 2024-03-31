@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi There!👋, I'm Sachin Ayeshmantha</h1>
-<h3 align="centre" margin-bottom = 50px>An undergraduate student who is passionate about machine learning, DevOps & web development</h3>
+<h3 align="centre" margin-bottom = 50px>I am a student pursuing a degree in Computer Science at the Informatics Institute of Technology, Sri Lanka, affiliated with the University of Westminster, UK. My education has given me knowledge and skills in various areas, such as programming languages, object-oriented programming, algorithms, and security and forensics. I am fascinated by exploring new areas of study, such as machine learning, AI, DevOps and Web development. I am proud of my portfolio, which showcases my creative problem-solving abilities. I enjoy taking on challenges and am motivated by the opportunity to contribute value to the organizations and communities I serve.</h3>
 
-<img align= "centre"  alt= "Coding"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400" >
+<img style="display: block; margin-top: 10px; margin-bottom: 10px;" alt="Coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin20010517&label=Profile%20views&color=0e75b6&style=flat" alt="sachin20010517" /> </p>
 
