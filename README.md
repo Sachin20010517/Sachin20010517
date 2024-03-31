@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Mail Delivery Time Prediction System Project](https://github.com/Sachin20010517/mail-delivery-time-prediction-system-front-end-part)
 
-- 🌱 I’m currently learning **Machine Learning, DevOps**
+- 🌱 I’m currently learning **DevOps, Machine Learning, Full Stack web Development**
 
 - 👨‍💻 All of my projects are available at [https://sachin20010517.github.io/My_Portfolio-nb-1/](https://sachin20010517.github.io/My_Portfolio-nb-1/)
 
